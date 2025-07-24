@@ -2,7 +2,7 @@
 
 **Netflix Frontend - A Responsive Streaming Service Homepage UI**
 
-This is a responsive **Netflix Clone** built using HTML, CSS, and JavaScript. It replicates the look and feel of Netflix's homepage UI, featuring a sleek design, hero banner, interactive sections, and modern layout components. This project is intended for educational and portfolio purposes.
+This is a responsive **Netflix Frontend** built using HTML, CSS, and JavaScript. It replicates the look and feel of Netflix's homepage UI, featuring a sleek design, hero banner, interactive sections, and modern layout components. This project is intended for educational and portfolio purposes.
 
 ---
 
